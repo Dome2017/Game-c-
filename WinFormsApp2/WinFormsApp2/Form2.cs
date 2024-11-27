@@ -12,6 +12,7 @@ namespace WinFormsApp2
 {
     public partial class Form2 : Form
     {
+        // aaa
         private Postac postac; // Zmienna klasy przechowująca obiekt Postac
 
         public Form2(Postac postac)
